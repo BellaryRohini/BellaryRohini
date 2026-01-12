@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bellary Rohini</h1>
 <h3 align="center">A passionate AI & ML Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Own voice assistant**
+- 🔭 I’m currently working on **Kabaddi Chatbot**
 
 - 🌱 I’m currently learning **Machine Learning,Deep Learning, NLP**
 
